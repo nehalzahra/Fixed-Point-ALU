@@ -1,0 +1,6 @@
+verilog work "Half_Adder.v"
+verilog work "Full_Adder.v"
+verilog work "Four_Bit_Multiplier.v"
+verilog work "ALU.v"
+verilog work "ALU_TB.v"
+verilog work "C:/Xilinx/14.5/ISE_DS/ISE//verilog/src/glbl.v"
